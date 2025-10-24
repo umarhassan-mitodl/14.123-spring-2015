@@ -25,9 +25,9 @@ Texts
 
 The instructor's notes are used as the main text for the course. However, the following textbooks are also useful.
 
-*   Savage, Leonard J. _The Foundations of Statistics_. Dover Publications, 1972. ISBN: 9780486623498. \[Preview with {{% resource_link "db4df35d-faa5-4078-93ce-fd8086c8b1c4" "Google Books" %}}\]
+*   Savage, Leonard J. _The Foundations of Statistics_. Dover Publications, 1972. ISBN: 9780486623498. \[Preview with [Google Books](http://books.google.com/books?id=zSv6dBWneMEC&printsec=frontcover)\]
 *   Mas-Colell, Andreu, Michael D. Whinston, and Jerry R. Green. _Microeconomic Theory_. Oxford University Press, 1995. ISBN: 9780195073409.
-*   Kreps, David M. _Microeconomic Foundations I: Choice and Competitive Markets_. Princeton University Press, 2012. ISBN: 9780691155838. \[Preview with {{% resource_link "e085eae7-e9e5-4434-af6b-fd4115e5a8a8" "Google Books" %}}\]
+*   Kreps, David M. _Microeconomic Foundations I: Choice and Competitive Markets_. Princeton University Press, 2012. ISBN: 9780691155838. \[Preview with [Google Books](http://books.google.com/books?id=8tW9KAnkx04C&printsec=frontcover)\]
 
 Grading
 -------
